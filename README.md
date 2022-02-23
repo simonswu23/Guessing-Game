@@ -1,2 +1,3 @@
 # Guessing-Game
-A yes-no word guessing game that updates the game state after each iteration
+QuestionsGame.java implements a yes-no word guessing game that updates the game state after each iteration
+Run from QuestionMain.java
