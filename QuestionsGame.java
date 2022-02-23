@@ -1,4 +1,3 @@
-//20Questions
 //Creates class QuestionMain which prompts the user to play
 //the 20 questions game that can also be generated from
 //an existing saved game
