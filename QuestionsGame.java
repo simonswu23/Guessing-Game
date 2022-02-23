@@ -1,6 +1,3 @@
-//Simon Wu
-//12/02/2021
-//CSE 143 Section AP, Neel Jog
 //20Questions
 //Creates class QuestionMain which prompts the user to play
 //the 20 questions game that can also be generated from
